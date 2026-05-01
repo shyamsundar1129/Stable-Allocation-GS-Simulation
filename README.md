@@ -3,7 +3,7 @@
 ## Project Overview
 This project is an object-oriented Python simulation of the **Gale-Shapley Deferred Acceptance Algorithm (1962)**[cite: 6]. It mathematically models and solves the Stable Matching Problem for two disjoint sets of equal size (e.g., Medical Residents and Hospitals) based on strict ordinal preferences[cite: 6]. 
 
-In economic markets where price cannot dictate allocation, this algorithm ensures a perfectly stable matching where no "blocking pairs" exist—meaning no two agents would mutually prefer each other over their assigned partners[cite: 6]. This work fundamentally underpins modern market design and earned Lloyd Shapley the 2012 Nobel Memorial Prize in Economic Sciences[cite: 6].
+In economic markets where price cannot dictate allocation, this algorithm ensures a perfectly stable matching where no "blocking pairs" exist meaning no two agents would mutually prefer each other over their assigned partners[cite: 6]. This work fundamentally underpins modern market design and earned Lloyd Shapley the 2012 Nobel Memorial Prize in Economic Sciences[cite: 6].
 
 ## How It Works
 The algorithm utilizes a **Proposer-Reviewer** dynamic (Deferred Acceptance)[cite: 6]:
